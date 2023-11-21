@@ -1,3 +1,4 @@
+# (Coming Soon)
 # Breathing Life Into Sketches Using Text-to-Video Priors
 
 <a href="https://livesketch.github.io/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=blue"></a>
@@ -6,12 +7,8 @@
 <!-- Official implementation. -->
 <br>
 
-# Coming Soon
-
-
-
 <p align="center">
-<img src="repo_images/teaser.jpeg" width="90%"/>  
+<img src="repo_images/teaser.jpg" width="90%"/>  
   
 > <a href="https://livesketch.github.io/">**Breathing Life Into Sketches Using Text-to-Video Priors**</a>
 >
