@@ -1,0 +1,34 @@
+name: live_sketch
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip=22.3.1
+  - cudatoolkit=11.6
+  - numpy=1.22.3
+  - xformers
+  - cmake
+  - pip:
+    - --extra-index-url https://download.pytorch.org/whl/cu116
+    - torch==1.12.1+cu116
+    - torchaudio==0.12.1
+    - torchvision==0.13.1+cu116
+    - ipywidgets
+    - diffusers
+    - easydict
+    - torchsummary
+    - cssutils
+    - shapely
+    - lightning
+    - imageio==2.19.3
+    - imageio-ffmpeg==0.4.7
+    - scikit-image
+    - wandb
+    - moviepy
+    - matplotlib
+    - cairosvg
+    - einops
+    - transformers
+    - accelerate
